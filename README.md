@@ -1,3 +1,3 @@
-# TB-QMRL WGS Pipeline
+# TBpipe
 
 TBD
